@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Food Website",
+    "imageSrc": "https://1605himanshu.github.io/Food-Website/resources/img/1.jpg",
+    "description": "This project is a responsive food website built with HTML and CSS. It features an attractive layout showcasing food items with images and descriptions. The design follows a mobile-first approach, using media queries for optimal viewing on various devices. The website provides a visually appealing interface for exploring diverse culinary offerings.",
+    "demo": "https://1605himanshu.github.io/Food-Website/",
+    "source": "https://github.com/1605himanshu/Food-Website"
+  },
+  {
+    "id": 2,
+    "title": "Weather Website",
+    "imageSrc": "https://thumbs.dreamstime.com/b/weather-forecast-concept-sunny-rainy-blue-background-top-view-copy-space-weather-forecast-concept-sunny-rainy-blue-160677612.jpg",
+    "description": "This project is a weather prediction application built with HTML, CSS, JavaScript, and Node.js. It retrieves real-time weather data for various cities using a weather API. The Node.js backend processes API requests, while the frontend provides a user-friendly interface for searching cities and viewing current conditions and forecasts.",
+    "demo": " https://weather-project-s5rk.onrender.com",
+    "source": "https://github.com/1605himanshu/Weather-project"
+  },
+  {
+    "id": 3,
+    "title": "Employee Management System",
+    "imageSrc": "https://d6xcmfyh68wv8.cloudfront.net/learn-content/uploads/2023/11/Employee-Management-System.png",
+    "description":"Built a React-based Employee Management System with Tailwind CSS and Chrome local storage for data persistence. Features include user authentication (login/logout), adding, updating, and deleting employee records. Designed an intuitive and responsive UI for efficient employee data management.",
+    "source": "https://github.com/1605himanshu/Employee-Management-System",
+    "demo": "https://1605himanshu.github.io/Employee-Management-System/"
+    
+  }
+]
